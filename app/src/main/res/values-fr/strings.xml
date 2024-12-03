@@ -1,0 +1,38 @@
+<resources>
+    <!-- Nom de l'application -->
+    <string name="app_name">TP2</string>
+
+    <!-- Texte de bienvenue -->
+    <string name="welcome_message">Bienvenue sur notre application !</string>
+
+    <!-- Login / Mot de passe -->
+    <string name="username">Nom d&apos;utilisateur</string> <!-- Remplacer ' par &apos; -->
+    <string name="password">Mot de passe</string>
+    <string name="login_button">Se connecter</string>
+    <string name="login_error">Nom d&apos;utilisateur ou mot de passe incorrect</string> <!-- Remplacer ' par &apos; -->
+
+    <!-- État de la connexion -->
+    <string name="loading">Chargement en cours</string>
+    <string name="logout">Se déconnecter</string>
+
+    <!-- Erreurs -->
+    <string name="error_network">Erreur réseau. Veuillez vérifier votre connexion.</string>
+    <string name="error_generic">Une erreur s&apos;est produite. Veuillez réessayer.</string> <!-- Remplacer ' par &apos; -->
+
+    <!-- Texte pour l'interface utilisateur -->
+    <string name="home_title">Page d&apos;accueil</string> <!-- Remplacer ' par &apos; -->
+    <string name="settings">Paramètres</string>
+    <string name="profile">Profil</string>
+
+    <!-- Autres chaînes utiles -->
+    <string name="submit">Soumettre</string>
+    <string name="cancel">Annuler</string>
+    <string name="delete">Supprimer</string>
+    <string name="update">Mettre à jour</string>
+    <string name="confirm">Confirmer</string>
+    <string name="back_button">Retour</string>
+
+    <!-- Messages et informations -->
+    <string name="hello_user">Bonjour, %1$s!</string>
+    <string name="goodbye">Au revoir!</string>
+</resources>
